@@ -19,9 +19,9 @@ Trello | 65%
 
 ---
 Programs I have created:
-- (https://github.com/Juanchoner/ReproductorDeMusica-Python.git "Music player (Python: Tkinter)")
-- (https://github.com/Juanchoner/RegistroDeClientes-Python.git "Customer registration (Python: Tkinter)")
-- (https://github.com/Juanchoner/Mini-Games.git "Mini-Games (Python: Tkinter)")
+- [Music player (Python: Tkinter and pygame)](https://github.com/Juanchoner/ReproductorDeMusica-Python.git)
+- [Customer registration (Python: Tkinter and SQLite)](https://github.com/Juanchoner/RegistroDeClientes-Python.git)
+- [Mini-Games (Python: Tkinter)](https://github.com/Juanchoner/Mini-Games.git)
 
 <!--
 **Juanchoner/Juanchoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
